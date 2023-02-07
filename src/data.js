@@ -8,6 +8,14 @@ export const projects = [
     link: "https://github.com/prakharpratap97/Hawaiadda-Website-main.git",
   },
   {
+    title: "Sticky Notes",
+    subtitle: "Html, Css, Javascript, React, React-dragabble",
+    description:
+      "A web-based application for creating and organizing notes. This project allows users to efficiently manage their to-do lists and important reminders. The source code for this project is available on GitHub.",
+    image: "./stickynotes.gif",
+    link: "https://github.com/prakharpratap97/stickynotes-using-reactjs-html-and-css",
+  },
+  {
     title: "Calce - A Calculator",
     subtitle: "Html, Css, Javascript",
     description:
@@ -15,14 +23,7 @@ export const projects = [
     image: "./Calce.png",
     link: "https://unpuckered-companie.000webhostapp.com/",
   },
-  // {
-  //   title: "DevChat",
-  //   subtitle: "React and Firebase",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-3.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
+  
   // {
   //   title: "Epic Todo App",
   //   subtitle: "React Hooks",
@@ -33,31 +34,52 @@ export const projects = [
   // },
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
-];
 
-export const skills = [
-  "Html",
-  "Css",
-  "JavaScript",
-  "React",
-  "Bootstrap",
-  "Python",
-  "MySql",
-  "Cloud",
+
+// export const skills = [
+//   "Html",
+//   "Css",
+//   "JavaScript",
+//   "React",
+//   "Bootstrap",
+//   "Python",
+//   "MySql",
+//   "Cloud",
   
+// ];
+
+
+ export const skills = [
+  {
+    title: "Html",
+    link: "https://www.coursera.org/account/accomplishments/certificate/ZE84FPH3GT2J",
+  },
+  {
+    title: "Css",
+    link: "https://www.sololearn.com/certificates/CT-4EFHZLOO",
+  },
+  {
+    title: "JavaScript",
+    link: "https://www.coursera.org/account/accomplishments/verify/PPPE5DK4L8EZ",
+  },
+  {
+    title: "React",
+    link: "https://www.udemy.com/certificate/UC-1a8b61ec-9713-47f1-8f49-dc9196b1ca8c/",
+  },
+  {
+    title: "Bootstrap",
+    link: "https://getbootstrap.com/",
+  },
+  {
+    title: "Python",
+    link: "https://olympus1.greatlearning.in/course_certificate/LZTLCMOO",
+  },
+  {
+    title: "MySql",
+    link: "https://www.sololearn.com/certificates/CT-YSVZQJK6",
+  },
+  {
+    title: "Cloud",
+    link: "https://www.udemy.com/certificate/UC-b0628d11-f138-4311-a763-f88ba7d23918/",
+  },
 ];
