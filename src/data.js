@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Hawaiadda is a dynamic and interactive website showcasing the capabilities of drones. The source code for this project is available on GitHub.",
     image: "./Hawaiadda.gif",
-    link: "https://github.com/prakharpratap97/Hawaiadda-Website-main.git",
+    link: "https://github.com/prakharpratap97/Hawaiadda-website-1.0",
   },
   {
     title: "Sticky Notes",
